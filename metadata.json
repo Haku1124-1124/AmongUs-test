@@ -1,0 +1,8 @@
+{
+  "name": "STARSHIP IMPOSTOR DELUXE",
+  "description": "15ステージ・全20役職・40種装飾品・15色対応の宇宙船人狼ゲーム（リアルマップ・視界遮蔽・固有ギミック搭載）",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
